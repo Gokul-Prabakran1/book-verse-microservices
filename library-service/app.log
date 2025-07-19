@@ -1,0 +1,382 @@
+2025-07-09T19:05:47.296Z [info]: Redis connected
+2025-07-09T19:05:47.309Z [info]: MongoDB connected
+2025-07-09T19:05:47.313Z [info]: Library Service running on port 3004
+2025-07-09T20:01:31.901Z [info]: Redis connected
+2025-07-09T20:01:31.913Z [info]: MongoDB connected
+2025-07-09T20:01:31.918Z [info]: Library Service running on port 3004
+2025-07-10T17:59:53.751Z [info]: Redis connected
+2025-07-10T17:59:53.772Z [info]: MongoDB connected
+2025-07-10T17:59:53.780Z [info]: Library Service running on port 3004
+2025-07-10T18:21:54.515Z [info]: POST /api/library/686f83037c08bd1429f31bc3
+2025-07-10T18:22:06.470Z [info]: POST /api/library/686f83037c08bd1429f31bc3
+2025-07-10T18:23:26.317Z [info]: POST /api/library/686f83037c08bd1429f31bc3
+2025-07-10T18:24:10.789Z [info]: POST /api/library/add
+2025-07-10T18:24:10.982Z [error]: Error adding book:
+2025-07-10T18:24:22.130Z [info]: POST /api/library/add
+2025-07-10T18:24:22.146Z [error]: Error adding book:
+2025-07-10T18:27:17.516Z [info]: POST /api/library/add
+2025-07-10T18:27:17.629Z [info]: Book added to library: 686fa492dca21dadb9ba8e00
+2025-07-10T18:27:38.132Z [info]: POST /api/library/add
+2025-07-10T18:27:38.217Z [info]: Book added to library: 686fa492dca21dadb9ba8dd6
+2025-07-10T18:28:55.926Z [info]: POST /api/library/add
+2025-07-10T18:28:55.970Z [info]: Book added to library: 686fa492dca21dadb9ba8ddd
+2025-07-10T18:32:46.020Z [info]: GET /api/library
+2025-07-10T18:32:46.147Z [error]: Error fetching library:
+2025-07-10T18:33:15.618Z [info]: POST /api/library/add
+2025-07-10T18:33:15.644Z [info]: Book added to library: 686fa492dca21dadb9ba8dce
+2025-07-10T18:33:18.916Z [info]: GET /api/library
+2025-07-10T18:33:18.932Z [error]: Error fetching library:
+2025-07-10T18:33:21.320Z [info]: GET /api/library
+2025-07-10T18:33:21.343Z [error]: Error fetching library:
+2025-07-10T18:33:41.635Z [info]: GET /api/library
+2025-07-10T18:33:41.655Z [error]: Error fetching library:
+2025-07-10T18:35:48.397Z [info]: Redis connected
+2025-07-10T18:35:48.421Z [info]: MongoDB connected
+2025-07-10T18:35:48.432Z [info]: Library Service running on port 3004
+2025-07-10T18:35:56.327Z [info]: Redis connected
+2025-07-10T18:35:56.362Z [info]: MongoDB connected
+2025-07-10T18:35:56.371Z [info]: Library Service running on port 3004
+2025-07-10T18:36:05.760Z [info]: GET /api/library
+2025-07-10T18:36:17.241Z [info]: GET /api/library
+2025-07-10T18:36:57.109Z [info]: GET /api/library
+2025-07-10T18:37:57.440Z [info]: GET /api/library
+2025-07-10T18:38:04.409Z [info]: GET /api/library
+2025-07-10T18:38:10.131Z [info]: GET /api/library
+2025-07-10T18:39:25.932Z [info]: GET /api/library
+2025-07-10T18:40:04.920Z [info]: POST /api/library/add
+2025-07-10T18:40:05.000Z [info]: Book added to library: 686fa492dca21dadb9ba8dad
+2025-07-10T18:40:07.921Z [info]: GET /api/library
+2025-07-10T18:42:07.550Z [info]: POST /api/library/add
+2025-07-10T18:42:07.607Z [info]: Book added to library: 686fa492dca21dadb9ba8ddf
+2025-07-10T18:42:08.138Z [info]: POST /api/library/add
+2025-07-10T18:42:08.155Z [error]: Error adding book:
+2025-07-10T18:42:11.484Z [info]: POST /api/library/add
+2025-07-10T18:42:11.506Z [info]: Book added to library: 686fa492dca21dadb9ba8df2
+2025-07-10T18:42:14.442Z [info]: POST /api/library/add
+2025-07-10T18:42:14.473Z [info]: Book added to library: 686fa492dca21dadb9ba8dbb
+2025-07-10T18:42:24.789Z [info]: POST /api/library/add
+2025-07-10T18:42:24.806Z [info]: Book added to library: 686fa492dca21dadb9ba8dd0
+2025-07-10T18:42:56.058Z [info]: GET /api/library
+2025-07-10T18:43:35.356Z [info]: POST /api/library/add
+2025-07-10T18:43:35.377Z [info]: Book added to library: 686fa492dca21dadb9ba8dc1
+2025-07-10T18:43:57.403Z [info]: POST /api/library/add
+2025-07-10T18:43:57.431Z [info]: Book added to library: 686fa492dca21dadb9ba8e08
+2025-07-10T18:45:28.244Z [info]: POST /api/library/add
+2025-07-10T18:45:28.278Z [info]: Book added to library: 686fa492dca21dadb9ba8dfa
+2025-07-10T18:45:36.286Z [info]: GET /api/library
+2025-07-10T18:47:09.451Z [info]: GET /api/library
+2025-07-10T18:48:32.211Z [info]: Redis connected
+2025-07-10T18:48:32.230Z [info]: MongoDB connected
+2025-07-10T18:48:32.237Z [info]: Library Service running on port 3004
+2025-07-10T18:48:51.392Z [info]: Redis connected
+2025-07-10T18:48:51.414Z [info]: MongoDB connected
+2025-07-10T18:48:51.419Z [info]: Library Service running on port 3004
+2025-07-10T18:49:12.832Z [info]: Redis connected
+2025-07-10T18:49:12.848Z [info]: MongoDB connected
+2025-07-10T18:49:12.855Z [info]: Library Service running on port 3004
+2025-07-10T18:51:54.123Z [info]: GET /api/library
+2025-07-10T18:53:05.958Z [info]: POST /api/library/update-category
+2025-07-10T18:53:06.013Z [info]: Book category updated: 686fa492dca21dadb9ba8e00 -> Read
+2025-07-10T18:53:06.034Z [info]: GET /api/library
+2025-07-10T18:53:55.059Z [info]: POST /api/library/toggle-favourite
+2025-07-10T18:53:55.086Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8dd6
+2025-07-10T18:53:55.100Z [info]: GET /api/library
+2025-07-10T18:54:01.456Z [info]: GET /api/library
+2025-07-10T18:58:44.139Z [info]: GET /api/library
+2025-07-10T18:59:06.688Z [info]: POST /api/library/remove
+2025-07-10T18:59:06.766Z [info]: Book removed from library: 686fa492dca21dadb9ba8dd6
+2025-07-10T18:59:06.780Z [info]: GET /api/library
+2025-07-10T19:01:13.981Z [info]: GET /api/library
+2025-07-10T19:01:36.033Z [info]: POST /api/library/add
+2025-07-10T19:01:36.059Z [error]: Error adding book:
+2025-07-10T19:01:39.783Z [info]: GET /api/library
+2025-07-10T19:03:33.879Z [info]: GET /api/library
+2025-07-10T19:04:49.042Z [info]: GET /api/library
+2025-07-10T19:05:34.844Z [info]: POST /api/library/update-category
+2025-07-10T19:05:34.877Z [info]: Book category updated: 686fa492dca21dadb9ba8ddd -> Wishlist
+2025-07-10T19:05:34.890Z [info]: GET /api/library
+2025-07-10T19:07:29.985Z [info]: GET /api/library
+2025-07-10T19:08:26.619Z [info]: POST /api/library/add
+2025-07-10T19:08:26.653Z [info]: Book added to library: 686fa492dca21dadb9ba8dac
+2025-07-10T19:08:34.082Z [info]: GET /api/library
+2025-07-10T19:08:39.096Z [info]: POST /api/library/toggle-favourite
+2025-07-10T19:08:39.156Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8ddd
+2025-07-10T19:08:39.168Z [info]: GET /api/library
+2025-07-10T19:08:48.098Z [info]: POST /api/library/toggle-favourite
+2025-07-10T19:08:48.115Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8ddf
+2025-07-10T19:08:48.131Z [info]: GET /api/library
+2025-07-10T19:09:03.588Z [info]: POST /api/library/add
+2025-07-10T19:09:03.606Z [info]: Book added to library: 686fa492dca21dadb9ba8db9
+2025-07-10T19:09:05.365Z [info]: GET /api/library
+2025-07-10T19:09:08.710Z [info]: POST /api/library/update-category
+2025-07-10T19:09:08.730Z [info]: Book category updated: 686fa492dca21dadb9ba8ddd -> Read
+2025-07-10T19:09:08.736Z [info]: GET /api/library
+2025-07-10T19:09:11.686Z [info]: POST /api/library/update-category
+2025-07-10T19:09:11.742Z [info]: Book category updated: 686fa492dca21dadb9ba8ddd -> Read
+2025-07-10T19:09:11.751Z [info]: GET /api/library
+2025-07-10T19:09:14.446Z [info]: POST /api/library/update-category
+2025-07-10T19:09:14.504Z [info]: Book category updated: 686fa492dca21dadb9ba8dce -> Wishlist
+2025-07-10T19:09:14.512Z [info]: GET /api/library
+2025-07-10T19:09:16.914Z [info]: POST /api/library/update-category
+2025-07-10T19:09:16.965Z [info]: Book category updated: 686fa492dca21dadb9ba8dce -> Read
+2025-07-10T19:09:16.973Z [info]: GET /api/library
+2025-07-10T19:09:20.666Z [info]: POST /api/library/update-category
+2025-07-10T19:09:20.688Z [info]: Book category updated: 686fa492dca21dadb9ba8df2 -> Wishlist
+2025-07-10T19:09:20.696Z [info]: GET /api/library
+2025-07-10T19:09:24.524Z [info]: POST /api/library/update-category
+2025-07-10T19:09:24.575Z [info]: Book category updated: 686fa492dca21dadb9ba8dbb -> Wishlist
+2025-07-10T19:09:24.584Z [info]: GET /api/library
+2025-07-10T19:09:28.809Z [info]: POST /api/library/toggle-favourite
+2025-07-10T19:09:28.866Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8dce
+2025-07-10T19:09:28.872Z [info]: GET /api/library
+2025-07-10T19:09:31.250Z [info]: POST /api/library/toggle-favourite
+2025-07-10T19:09:31.291Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8e08
+2025-07-10T19:09:31.301Z [info]: GET /api/library
+2025-07-10T19:10:46.656Z [info]: GET /api/library
+2025-07-10T19:12:54.656Z [info]: Redis connected
+2025-07-10T19:12:54.682Z [info]: MongoDB connected
+2025-07-10T19:12:54.693Z [info]: Library Service running on port 3004
+2025-07-10T19:13:01.900Z [info]: GET /api/library
+2025-07-10T19:13:06.917Z [info]: POST /api/library/update-category
+2025-07-10T19:13:06.970Z [error]: Error updating category:
+2025-07-10T19:13:19.986Z [info]: GET /api/library
+2025-07-10T19:14:59.887Z [info]: Redis connected
+2025-07-10T19:14:59.923Z [info]: MongoDB connected
+2025-07-10T19:14:59.932Z [info]: Library Service running on port 3004
+2025-07-10T19:15:15.414Z [info]: GET /api/library
+2025-07-10T19:15:19.318Z [info]: GET /api/library
+2025-07-10T19:15:25.058Z [info]: GET /api/library
+2025-07-10T19:15:28.788Z [info]: GET /api/library
+2025-07-10T19:15:48.611Z [info]: POST /api/library/add
+2025-07-10T19:15:52.136Z [info]: POST /api/library/add
+2025-07-10T19:16:00.175Z [info]: POST /api/library/add
+2025-07-10T19:16:18.449Z [info]: GET /api/library
+2025-07-10T19:16:19.173Z [info]: GET /api/library
+2025-07-10T19:16:29.614Z [info]: POST /api/library/update-category
+2025-07-10T19:16:29.654Z [error]: Error updating category:
+2025-07-10T19:16:37.578Z [info]: POST /api/library/update-category
+2025-07-10T19:16:37.597Z [error]: Error updating category:
+2025-07-10T19:17:43.487Z [info]: POST /api/library/update-category
+2025-07-10T19:17:43.509Z [error]: Error updating category:
+2025-07-10T19:18:26.561Z [info]: Redis connected
+2025-07-10T19:18:26.599Z [info]: MongoDB connected
+2025-07-10T19:18:26.616Z [info]: Library Service running on port 3004
+2025-07-10T19:18:29.704Z [info]: POST /api/library/update-category
+2025-07-10T19:18:29.762Z [error]: Error updating category:
+2025-07-10T19:18:40.455Z [info]: POST /api/library/update-category
+2025-07-10T19:18:40.511Z [error]: Error updating category:
+2025-07-10T19:20:07.300Z [info]: POST /api/library/update-category
+2025-07-10T19:20:07.316Z [error]: Error updating category:
+2025-07-10T19:25:52.764Z [info]: Redis connected
+2025-07-10T19:25:52.794Z [info]: MongoDB connected
+2025-07-10T19:25:52.817Z [info]: Library Service running on port 3004
+2025-07-10T19:25:55.663Z [info]: POST /api/library/update-category
+2025-07-10T19:25:55.737Z [info]: Book category updated: 686fa492dca21dadb9ba8ddd -> WantToRead
+2025-07-10T19:25:55.759Z [info]: GET /api/library
+2025-07-10T19:26:16.357Z [info]: POST /api/library/update-category
+2025-07-10T19:26:16.386Z [info]: Book category updated: 686fa492dca21dadb9ba8ddd -> WantToRead
+2025-07-10T19:26:16.405Z [info]: GET /api/library
+2025-07-10T19:26:17.898Z [info]: POST /api/library/update-category
+2025-07-10T19:26:17.921Z [info]: Book category updated: 686fa492dca21dadb9ba8df2 -> WantToRead
+2025-07-10T19:26:17.929Z [info]: GET /api/library
+2025-07-10T19:26:19.177Z [info]: POST /api/library/update-category
+2025-07-10T19:26:19.195Z [info]: Book category updated: 686fa492dca21dadb9ba8dbb -> WantToRead
+2025-07-10T19:26:19.202Z [info]: GET /api/library
+2025-07-10T19:26:25.833Z [info]: GET /api/library
+2025-07-10T19:26:32.930Z [info]: POST /api/library/update-category
+2025-07-10T19:26:32.956Z [info]: Book category updated: 686fa492dca21dadb9ba8dce -> WantToRead
+2025-07-10T19:26:32.977Z [info]: GET /api/library
+2025-07-10T19:26:42.264Z [info]: POST /api/library/remove
+2025-07-10T19:26:42.284Z [info]: Book removed from library: 686fa492dca21dadb9ba8ddd
+2025-07-10T19:26:42.294Z [info]: GET /api/library
+2025-07-10T19:26:43.007Z [info]: POST /api/library/remove
+2025-07-10T19:26:43.027Z [info]: Book removed from library: 686fa492dca21dadb9ba8dce
+2025-07-10T19:26:43.035Z [info]: GET /api/library
+2025-07-10T19:26:43.665Z [info]: POST /api/library/remove
+2025-07-10T19:26:43.694Z [info]: Book removed from library: 686fa492dca21dadb9ba8df2
+2025-07-10T19:26:43.701Z [info]: GET /api/library
+2025-07-10T19:26:44.316Z [info]: POST /api/library/remove
+2025-07-10T19:26:44.333Z [info]: Book removed from library: 686fa492dca21dadb9ba8dbb
+2025-07-10T19:26:44.348Z [info]: GET /api/library
+2025-07-10T19:26:47.500Z [info]: POST /api/library/update-category
+2025-07-10T19:26:47.519Z [info]: Book category updated: 686fa492dca21dadb9ba8dad -> WantToRead
+2025-07-10T19:26:47.531Z [info]: GET /api/library
+2025-07-10T19:26:51.618Z [info]: POST /api/library/remove
+2025-07-10T19:26:51.639Z [info]: Book removed from library: 686fa492dca21dadb9ba8dad
+2025-07-10T19:26:51.652Z [info]: GET /api/library
+2025-07-10T19:26:55.239Z [info]: POST /api/library/update-category
+2025-07-10T19:26:55.263Z [info]: Book category updated: 686fa492dca21dadb9ba8e08 -> WantToRead
+2025-07-10T19:26:55.289Z [info]: GET /api/library
+2025-07-10T19:27:00.242Z [info]: POST /api/library/update-category
+2025-07-10T19:27:00.257Z [info]: Book category updated: 686fa492dca21dadb9ba8e00 -> Read
+2025-07-10T19:27:00.265Z [info]: GET /api/library
+2025-07-10T19:27:02.192Z [info]: POST /api/library/toggle-favourite
+2025-07-10T19:27:02.210Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8db9
+2025-07-10T19:27:02.227Z [info]: GET /api/library
+2025-07-10T19:27:07.807Z [info]: POST /api/library/update-category
+2025-07-10T19:27:07.824Z [info]: Book category updated: 686fa492dca21dadb9ba8ddf -> WantToRead
+2025-07-10T19:27:07.839Z [info]: GET /api/library
+2025-07-10T19:27:52.758Z [info]: GET /api/library
+2025-07-10T19:28:02.546Z [info]: POST /api/library/add
+2025-07-10T19:28:02.579Z [error]: Error adding book:
+2025-07-10T19:28:33.462Z [info]: POST /api/library/add
+2025-07-10T19:28:33.489Z [info]: Book added to library: 686fa492dca21dadb9ba8e03
+2025-07-10T19:28:37.013Z [info]: POST /api/library/add
+2025-07-10T19:28:37.041Z [info]: Book added to library: 686fa492dca21dadb9ba8dbf
+2025-07-10T19:28:39.451Z [info]: GET /api/library
+2025-07-10T19:28:45.993Z [info]: POST /api/library/add
+2025-07-10T19:28:46.002Z [error]: Error adding book:
+2025-07-10T19:28:50.763Z [info]: POST /api/library/add
+2025-07-10T19:28:50.827Z [info]: Book added to library: 686fa492dca21dadb9ba8de0
+2025-07-10T19:28:54.557Z [info]: POST /api/library/add
+2025-07-10T19:28:54.568Z [error]: Error adding book:
+2025-07-10T19:28:58.240Z [info]: POST /api/library/add
+2025-07-10T19:28:58.292Z [info]: Book added to library: 686fa492dca21dadb9ba8dda
+2025-07-10T19:29:00.556Z [info]: POST /api/library/add
+2025-07-10T19:29:00.568Z [error]: Error adding book:
+2025-07-10T19:29:02.633Z [info]: GET /api/library
+2025-07-10T19:29:10.210Z [info]: POST /api/library/add
+2025-07-10T19:29:10.234Z [info]: Book added to library: 686fa492dca21dadb9ba8dbb
+2025-07-10T19:29:13.208Z [info]: GET /api/library
+2025-07-10T19:30:26.713Z [info]: POST /api/library/add
+2025-07-10T19:30:26.741Z [info]: Book added to library: 686fa492dca21dadb9ba8dc3
+2025-07-10T19:30:43.933Z [info]: POST /api/library/add
+2025-07-10T19:30:43.942Z [error]: Error adding book:
+2025-07-10T19:30:48.804Z [info]: POST /api/library/add
+2025-07-10T19:30:48.826Z [info]: Book added to library: 686fa492dca21dadb9ba8e0b
+2025-07-10T19:31:30.134Z [info]: POST /api/library/add
+2025-07-10T19:31:30.145Z [error]: Error adding book:
+2025-07-10T19:32:10.158Z [info]: POST /api/library/add
+2025-07-10T19:32:10.170Z [error]: Error adding book:
+2025-07-10T19:41:34.123Z [info]: GET /api/library
+2025-07-10T19:43:37.395Z [info]: GET /recommendations/generate
+2025-07-10T19:58:16.435Z [info]: GET /api/library
+2025-07-10T19:59:36.062Z [info]: POST /api/library/add
+2025-07-10T19:59:36.124Z [info]: Book added to library: 686fa492dca21dadb9ba8dbf
+2025-07-10T19:59:39.003Z [info]: GET /api/library
+2025-07-10T19:59:49.719Z [info]: GET /api/library
+2025-07-10T20:00:34.281Z [info]: POST /api/library/add
+2025-07-10T20:00:34.299Z [info]: Book added to library: 686fa492dca21dadb9ba8dfe
+2025-07-10T20:00:35.482Z [info]: POST /api/library/add
+2025-07-10T20:00:35.493Z [info]: Book added to library: 686fa492dca21dadb9ba8e03
+2025-07-10T20:00:37.119Z [info]: POST /api/library/add
+2025-07-10T20:00:37.152Z [info]: Book added to library: 686fa492dca21dadb9ba8dd1
+2025-07-10T20:00:37.762Z [info]: POST /api/library/add
+2025-07-10T20:00:37.769Z [error]: Error adding book:
+2025-07-10T20:01:00.855Z [info]: POST /api/library/add
+2025-07-10T20:01:00.868Z [info]: Book added to library: 686fa492dca21dadb9ba8dda
+2025-07-10T20:01:08.470Z [info]: POST /api/library/add
+2025-07-10T20:01:08.483Z [info]: Book added to library: 686fa492dca21dadb9ba8df2
+2025-07-10T20:01:09.609Z [info]: POST /api/library/add
+2025-07-10T20:01:09.622Z [info]: Book added to library: 686fa492dca21dadb9ba8dac
+2025-07-10T20:01:10.746Z [info]: POST /api/library/add
+2025-07-10T20:01:10.759Z [info]: Book added to library: 686fa492dca21dadb9ba8dfc
+2025-07-10T20:07:02.683Z [info]: POST /api/library/add
+2025-07-10T20:07:02.711Z [info]: Book added to library: 686fa492dca21dadb9ba8dad
+2025-07-10T20:07:13.161Z [info]: POST /api/library/add
+2025-07-10T20:07:13.182Z [info]: Book added to library: 686fa492dca21dadb9ba8de0
+2025-07-10T20:07:14.203Z [info]: POST /api/library/add
+2025-07-10T20:07:14.222Z [info]: Book added to library: 686fa492dca21dadb9ba8db4
+2025-07-10T20:07:15.123Z [info]: POST /api/library/add
+2025-07-10T20:07:15.162Z [info]: Book added to library: 686fa492dca21dadb9ba8de4
+2025-07-10T20:11:17.976Z [info]: GET /api/library
+2025-07-10T20:11:22.296Z [info]: POST /api/library/toggle-favourite
+2025-07-10T20:11:22.314Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8dbf
+2025-07-10T20:11:22.323Z [info]: GET /api/library
+2025-07-10T20:11:23.989Z [info]: POST /api/library/update-category
+2025-07-10T20:11:24.010Z [info]: Book category updated: 686fa492dca21dadb9ba8dfe -> WantToRead
+2025-07-10T20:11:24.020Z [info]: GET /api/library
+2025-07-10T20:11:24.346Z [info]: POST /api/library/update-category
+2025-07-10T20:11:24.357Z [info]: Book category updated: 686fa492dca21dadb9ba8dfe -> WantToRead
+2025-07-10T20:11:24.363Z [info]: GET /api/library
+2025-07-10T20:11:26.383Z [info]: POST /api/library/update-category
+2025-07-10T20:11:26.394Z [info]: Book category updated: 686fa492dca21dadb9ba8dda -> Read
+2025-07-10T20:11:26.399Z [info]: GET /api/library
+2025-07-10T20:11:29.431Z [info]: POST /api/library/update-category
+2025-07-10T20:11:29.444Z [info]: Book category updated: 686fa492dca21dadb9ba8dda -> Read
+2025-07-10T20:11:29.451Z [info]: GET /api/library
+2025-07-10T20:11:33.674Z [info]: POST /api/library/toggle-favourite
+2025-07-10T20:11:33.687Z [info]: Book favourite toggled: 686fa492dca21dadb9ba8de0
+2025-07-10T20:11:33.694Z [info]: GET /api/library
+2025-07-10T20:11:35.086Z [info]: POST /api/library/update-category
+2025-07-10T20:11:35.101Z [info]: Book category updated: 686fa492dca21dadb9ba8db4 -> WantToRead
+2025-07-10T20:11:35.108Z [info]: GET /api/library
+2025-07-10T20:11:39.082Z [info]: POST /api/library/update-category
+2025-07-10T20:11:39.095Z [info]: Book category updated: 686fa492dca21dadb9ba8dad -> Read
+2025-07-10T20:11:39.100Z [info]: GET /api/library
+2025-07-10T20:11:40.470Z [info]: POST /api/library/update-category
+2025-07-10T20:11:40.481Z [info]: Book category updated: 686fa492dca21dadb9ba8dfc -> Read
+2025-07-10T20:11:40.488Z [info]: GET /api/library
+2025-07-10T20:23:07.523Z [info]: POST /api/library/update-category
+2025-07-10T20:23:07.610Z [info]: Book category updated: 686fa492dca21dadb9ba8dac -> WantToRead
+2025-07-10T20:23:07.627Z [info]: GET /api/library
+2025-07-10T20:30:08.599Z [info]: GET /api/library
+2025-07-10T20:32:37.150Z [info]: GET /api/library
+2025-07-10T20:34:10.871Z [info]: GET /api/library
+2025-07-10T20:34:11.004Z [info]: GET /api/library
+2025-07-10T20:34:23.398Z [info]: GET /api/library
+2025-07-10T20:36:03.977Z [info]: GET /api/library
+2025-07-10T20:36:04.213Z [info]: GET /api/library
+2025-07-10T20:36:12.985Z [info]: GET /api/library
+2025-07-10T20:36:13.007Z [info]: GET /api/library
+2025-07-10T20:38:50.182Z [info]: GET /api/library
+2025-07-10T20:39:31.581Z [info]: GET /api/library
+2025-07-10T20:43:04.201Z [info]: GET /api/library
+2025-07-10T20:43:05.033Z [info]: GET /api/library
+2025-07-10T20:44:41.412Z [info]: GET /api/library
+2025-07-10T20:46:56.053Z [info]: GET /api/library
+2025-07-10T20:46:56.197Z [info]: GET /api/library
+2025-07-10T20:51:25.844Z [info]: GET /api/library
+2025-07-10T20:52:47.410Z [info]: GET /api/library
+2025-07-10T20:58:00.529Z [info]: GET /api/library
+2025-07-10T20:59:04.459Z [info]: GET /api/library
+2025-07-10T21:03:39.169Z [info]: GET /api/library
+2025-07-10T21:03:59.928Z [info]: GET /api/library
+2025-07-11T05:36:33.863Z [info]: GET /api/library
+2025-07-11T05:40:10.300Z [info]: GET /api/library
+2025-07-11T05:40:23.512Z [info]: GET /api/library
+2025-07-11T05:40:23.771Z [info]: GET /api/library
+2025-07-11T05:40:23.938Z [info]: GET /api/library
+2025-07-11T05:40:24.191Z [info]: GET /api/library
+2025-07-11T05:40:37.008Z [info]: GET /api/library
+2025-07-11T05:40:59.287Z [info]: GET /api/library
+2025-07-11T05:42:41.895Z [info]: Redis connected
+2025-07-11T05:42:41.923Z [info]: MongoDB connected
+2025-07-11T05:42:41.933Z [info]: Library Service running on port 3004
+2025-07-11T05:42:44.437Z [info]: GET /api/library
+2025-07-11T05:58:19.496Z [info]: GET /api/library
+2025-07-11T07:31:57.748Z [info]: GET /api/library
+2025-07-11T07:37:38.275Z [info]: GET /api/library
+2025-07-11T07:38:50.911Z [info]: GET /api/library
+2025-07-11T07:42:54.792Z [info]: GET /api/library
+2025-07-11T07:43:44.287Z [info]: GET /api/library
+2025-07-11T07:45:31.539Z [info]: GET /api/library
+2025-07-11T07:45:44.985Z [info]: GET /api/library
+2025-07-11T07:46:08.626Z [info]: GET /api/library
+2025-07-11T07:46:10.964Z [info]: GET /api/library
+2025-07-11T07:46:12.456Z [info]: GET /api/library
+2025-07-11T07:46:21.452Z [info]: GET /api/library
+2025-07-11T07:46:23.548Z [info]: GET /api/library
+2025-07-11T07:46:33.180Z [info]: GET /api/library
+2025-07-11T07:46:36.113Z [info]: GET /api/library
+2025-07-11T07:46:43.078Z [info]: GET /api/library
+2025-07-11T07:46:56.786Z [info]: GET /api/library
+2025-07-11T07:47:11.162Z [info]: GET /api/library
+2025-07-11T07:48:10.548Z [info]: GET /api/library
+2025-07-11T07:49:55.667Z [info]: GET /api/library
+2025-07-11T07:50:38.396Z [info]: GET /api/library
+2025-07-11T07:51:28.537Z [info]: GET /api/library
+2025-07-11T07:51:57.253Z [info]: GET /api/library
+2025-07-11T07:52:32.742Z [info]: GET /api/library
+2025-07-11T08:01:50.011Z [info]: GET /api/library
+2025-07-11T08:31:23.327Z [info]: GET /api/library
+2025-07-11T08:33:09.359Z [info]: GET /api/library
+2025-07-11T08:34:53.534Z [info]: GET /api/library
+2025-07-11T08:44:34.099Z [info]: GET /api/library
+2025-07-11T12:16:38.668Z [info]: Redis connected
+2025-07-11T12:16:38.693Z [info]: MongoDB connected
+2025-07-11T12:16:38.701Z [info]: Library Service running on port 3004
+2025-07-11T12:17:50.158Z [info]: GET /api/library
+2025-07-11T12:17:53.637Z [info]: POST /api/library/update-category
+2025-07-11T12:17:53.703Z [info]: Book category updated: 686fa492dca21dadb9ba8ddf -> Read
+2025-07-11T12:17:53.713Z [info]: GET /api/library

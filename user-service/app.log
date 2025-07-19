@@ -1,0 +1,196 @@
+2025-07-09T19:12:09.889Z [info]: Redis connected
+2025-07-09T19:12:09.901Z [info]: MongoDB connected
+2025-07-09T19:12:09.905Z [info]: User Service running on port 3000
+2025-07-09T20:01:57.412Z [info]: Redis connected
+2025-07-09T20:01:57.425Z [info]: MongoDB connected
+2025-07-09T20:01:57.429Z [info]: User Service running on port 3000
+2025-07-09T20:46:42.878Z [info]: POST /auth/register
+2025-07-09T20:47:34.691Z [info]: GET /api/auth/register
+2025-07-09T20:47:39.639Z [info]: GET /api-docs
+2025-07-09T20:47:39.675Z [info]: GET /api-docs/
+2025-07-09T20:47:39.753Z [info]: GET /api-docs/swagger-ui.css
+2025-07-09T20:47:39.758Z [info]: GET /api-docs/swagger-ui-bundle.js
+2025-07-09T20:47:39.767Z [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-07-09T20:47:39.771Z [info]: GET /api-docs/swagger-ui-init.js
+2025-07-09T20:47:40.168Z [info]: GET /api-docs/favicon-32x32.png
+2025-07-09T20:49:07.709Z [info]: POST /api/auth/register
+2025-07-09T20:49:56.015Z [info]: POST /api/auth/register
+2025-07-09T20:50:08.662Z [info]: GET /api/auth/register
+2025-07-09T20:50:13.028Z [info]: GET /.well-known/appspecific/com.chrome.devtools.json
+2025-07-09T20:50:15.125Z [info]: GET /api/auth/register
+2025-07-09T20:50:15.158Z [info]: GET /.well-known/appspecific/com.chrome.devtools.json
+2025-07-09T20:54:38.839Z [info]: POST /api/auth/register
+2025-07-10T05:36:38.372Z [info]: POST /api/auth/register
+2025-07-10T05:38:44.329Z [info]: GET /api/auth/register
+2025-07-10T05:39:41.266Z [info]: Redis connected
+2025-07-10T05:39:41.288Z [info]: MongoDB connected
+2025-07-10T05:39:41.293Z [info]: User Service running on port 3000
+2025-07-10T05:41:35.544Z [info]: POST /api/auth/register
+2025-07-10T05:41:35.669Z [error]: Error registering user:
+2025-07-10T05:43:29.113Z [info]: POST /api/auth/register
+2025-07-10T05:43:29.220Z [error]: Error registering user:
+2025-07-10T05:44:05.305Z [info]: POST /api/auth/register
+2025-07-10T05:44:05.411Z [error]: Error registering user:
+2025-07-10T05:44:19.889Z [info]: POST /api/auth/register
+2025-07-10T05:44:20.033Z [error]: Error registering user:
+2025-07-10T05:45:42.007Z [info]: POST /api/auth/register
+2025-07-10T05:45:42.112Z [error]: Error registering user:
+2025-07-10T05:46:07.240Z [info]: POST /api/auth/register
+2025-07-10T05:46:07.345Z [error]: Error registering user:
+2025-07-10T05:47:30.267Z [info]: Redis connected
+2025-07-10T05:47:30.281Z [info]: MongoDB connected
+2025-07-10T05:47:30.285Z [info]: User Service running on port 3000
+2025-07-10T05:47:51.883Z [info]: POST /api/auth/register
+2025-07-10T05:47:51.885Z [info]: Register data received:
+2025-07-10T05:47:51.998Z [info]: Data to be saved to MongoDB:
+2025-07-10T05:47:52.018Z [error]: Error registering user:
+2025-07-10T06:03:28.383Z [info]: POST /api/auth/register
+2025-07-10T06:03:28.398Z [info]: Register data received:
+2025-07-10T06:03:28.634Z [info]: Data to be saved to MongoDB:
+2025-07-10T06:03:28.728Z [info]: User registered: 686f57b07c08bd1429f31bb8
+2025-07-10T09:04:47.615Z [info]: POST /api/auth/login
+2025-07-10T09:04:58.252Z [info]: POST /api/auth/login
+2025-07-10T09:05:08.296Z [info]: POST /api/auth/login
+2025-07-10T09:06:55.629Z [info]: POST /api/auth/login
+2025-07-10T09:06:59.626Z [info]: POST /api/auth/login
+2025-07-10T09:07:20.403Z [info]: POST /api/auth/register
+2025-07-10T09:07:20.408Z [info]: Register data received:
+2025-07-10T09:07:20.537Z [info]: Data to be saved to MongoDB:
+2025-07-10T09:07:20.583Z [error]: Error registering user:
+2025-07-10T09:07:46.925Z [info]: POST /api/auth/register
+2025-07-10T09:07:46.927Z [info]: Register data received:
+2025-07-10T09:07:47.033Z [info]: Data to be saved to MongoDB:
+2025-07-10T09:07:47.047Z [error]: Error registering user:
+2025-07-10T09:08:19.068Z [info]: POST /api/auth/register
+2025-07-10T09:08:19.069Z [info]: Register data received:
+2025-07-10T09:08:19.169Z [info]: Data to be saved to MongoDB:
+2025-07-10T09:08:19.174Z [info]: User registered: 686f83037c08bd1429f31bc3
+2025-07-10T09:08:43.226Z [info]: POST /api/auth/login
+2025-07-10T09:08:43.532Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T09:11:54.652Z [info]: Redis connected
+2025-07-10T09:11:54.672Z [info]: MongoDB connected
+2025-07-10T09:11:54.680Z [info]: User Service running on port 3000
+2025-07-10T09:12:23.898Z [info]: Redis connected
+2025-07-10T09:12:23.922Z [info]: MongoDB connected
+2025-07-10T09:12:23.930Z [info]: User Service running on port 3000
+2025-07-10T09:12:24.147Z [info]: POST /api/auth/login
+2025-07-10T09:12:24.244Z [error]: Error logging in:
+2025-07-10T09:40:13.197Z [info]: POST /api/auth/login
+2025-07-10T09:40:13.403Z [error]: Error logging in:
+2025-07-10T09:40:44.333Z [info]: POST /api/auth/register
+2025-07-10T09:40:44.347Z [info]: Register data received:
+2025-07-10T09:40:44.374Z [error]: Error registering user:
+2025-07-10T09:40:51.748Z [info]: POST /api/auth/register
+2025-07-10T09:40:51.749Z [info]: Register data received:
+2025-07-10T09:40:51.753Z [error]: Error registering user:
+2025-07-10T09:40:58.530Z [info]: POST /api/auth/register
+2025-07-10T09:40:58.531Z [info]: Register data received:
+2025-07-10T09:40:58.657Z [info]: Data to be saved to MongoDB:
+2025-07-10T09:40:58.750Z [info]: User registered: 686f8aaa196b12beca041c80
+2025-07-10T09:41:28.833Z [info]: POST /api/auth/login
+2025-07-10T09:41:29.013Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T09:46:03.840Z [info]: Redis connected
+2025-07-10T09:46:03.862Z [info]: MongoDB connected
+2025-07-10T09:46:03.874Z [info]: User Service running on port 3000
+2025-07-10T09:46:07.757Z [info]: POST /api/auth/login
+2025-07-10T09:46:07.779Z [error]: Error logging in:
+2025-07-10T09:46:18.880Z [info]: POST /api/auth/login
+2025-07-10T09:46:19.019Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-10T10:04:45.979Z [info]: POST /api/auth/login
+2025-07-10T10:04:46.221Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T10:27:25.172Z [info]: POST /api/auth/login
+2025-07-10T10:27:25.384Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T10:29:33.916Z [info]: POST /api/auth/login
+2025-07-10T10:29:34.056Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T10:29:56.330Z [info]: POST /api/auth/login
+2025-07-10T10:29:56.456Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T10:32:03.881Z [info]: POST /api/auth/login
+2025-07-10T10:32:04.108Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T10:54:54.089Z [info]: POST /api/auth/login
+2025-07-10T10:54:54.219Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:04:59.203Z [info]: POST /api/auth/login
+2025-07-10T11:04:59.320Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:05:20.606Z [info]: Redis connected
+2025-07-10T11:05:20.654Z [info]: MongoDB connected
+2025-07-10T11:05:20.667Z [info]: User Service running on port 3000
+2025-07-10T11:20:26.916Z [info]: POST /api/auth/login
+2025-07-10T11:20:26.950Z [error]: Error logging in:
+2025-07-10T11:20:29.208Z [info]: POST /api/auth/login
+2025-07-10T11:20:29.338Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-10T11:20:55.911Z [info]: POST /api/auth/login
+2025-07-10T11:20:55.985Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:23:28.009Z [info]: POST /api/auth/login
+2025-07-10T11:23:28.076Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:24:37.009Z [info]: POST /api/auth/register
+2025-07-10T11:24:37.012Z [info]: Register data received:
+2025-07-10T11:24:37.021Z [error]: Error registering user:
+2025-07-10T11:24:44.240Z [info]: POST /api/auth/register
+2025-07-10T11:24:44.241Z [info]: Register data received:
+2025-07-10T11:24:44.246Z [error]: Error registering user:
+2025-07-10T11:24:56.917Z [info]: POST /api/auth/register
+2025-07-10T11:24:56.918Z [info]: Register data received:
+2025-07-10T11:24:56.989Z [info]: Data to be saved to MongoDB:
+2025-07-10T11:24:57.034Z [info]: User registered: 686fa3084da4d74c1557d78b
+2025-07-10T11:25:20.241Z [info]: POST /api/auth/login
+2025-07-10T11:25:20.306Z [info]: User logged in: 686fa3084da4d74c1557d78b
+2025-07-10T11:48:46.691Z [info]: GET /api/auth/register
+2025-07-10T11:51:01.616Z [info]: POST /api/auth/login
+2025-07-10T11:51:01.801Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:55:01.730Z [info]: POST /api/auth/login
+2025-07-10T11:55:01.849Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:55:35.998Z [info]: POST /api/auth/login
+2025-07-10T11:55:36.078Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T11:56:04.866Z [info]: POST /api/auth/login
+2025-07-10T11:56:04.937Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:00:05.201Z [info]: POST /api/auth/login
+2025-07-10T12:00:05.322Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:00:42.267Z [info]: POST /api/auth/login
+2025-07-10T12:00:42.494Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:02:30.919Z [info]: POST /api/auth/login
+2025-07-10T12:02:31.061Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:15:17.853Z [info]: POST /api/auth/login
+2025-07-10T12:15:17.982Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:29:34.647Z [info]: POST /api/auth/login
+2025-07-10T12:29:34.750Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T12:39:50.034Z [info]: POST /api/auth/login
+2025-07-10T12:39:50.213Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T18:00:35.858Z [info]: Redis connected
+2025-07-10T18:00:35.882Z [info]: MongoDB connected
+2025-07-10T18:00:35.887Z [info]: User Service running on port 3000
+2025-07-10T18:13:27.830Z [info]: POST /api/auth/login
+2025-07-10T18:13:28.051Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T19:16:16.986Z [info]: POST /api/auth/login
+2025-07-10T19:16:17.168Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T19:27:51.203Z [info]: POST /api/auth/login
+2025-07-10T19:27:51.337Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-10T19:58:11.568Z [info]: POST /api/auth/login
+2025-07-10T19:58:11.608Z [error]: Error logging in:
+2025-07-10T19:58:14.983Z [info]: POST /api/auth/login
+2025-07-10T19:58:15.069Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-10T20:11:16.323Z [info]: POST /api/auth/login
+2025-07-10T20:11:16.430Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-10T20:44:39.996Z [info]: POST /api/auth/login
+2025-07-10T20:44:40.089Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-11T05:40:35.366Z [info]: POST /api/auth/login
+2025-07-11T05:40:35.544Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-11T07:31:55.384Z [info]: POST /api/auth/login
+2025-07-11T07:31:55.523Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-11T07:38:49.383Z [info]: POST /api/auth/login
+2025-07-11T07:38:49.520Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-11T07:46:54.812Z [info]: POST /api/auth/login
+2025-07-11T07:46:54.953Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-11T08:31:21.541Z [info]: POST /api/auth/login
+2025-07-11T08:31:21.741Z [info]: User logged in: 686f8aaa196b12beca041c80
+2025-07-11T08:44:32.280Z [info]: POST /api/auth/login
+2025-07-11T08:44:32.429Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-11T12:17:20.963Z [info]: Redis connected
+2025-07-11T12:17:20.982Z [info]: MongoDB connected
+2025-07-11T12:17:20.987Z [info]: User Service running on port 3000
+2025-07-11T12:17:48.517Z [info]: POST /api/auth/login
+2025-07-11T12:17:48.667Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-16T04:34:25.883Z [info]: GET /api-docs/
+2025-07-16T04:34:26.160Z [info]: GET /api-docs/swagger-ui.css
+2025-07-16T04:34:26.167Z [info]: GET /api-docs/swagger-ui-bundle.js
+2025-07-16T04:34:26.176Z [info]: GET /api-docs/swagger-ui-standalone-preset.js
+2025-07-16T04:34:26.182Z [info]: GET /api-docs/swagger-ui-init.js
+2025-07-16T04:34:54.489Z [info]: GET /
