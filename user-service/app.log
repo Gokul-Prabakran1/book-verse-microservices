@@ -194,3 +194,12 @@
 2025-07-16T04:34:26.176Z [info]: GET /api-docs/swagger-ui-standalone-preset.js
 2025-07-16T04:34:26.182Z [info]: GET /api-docs/swagger-ui-init.js
 2025-07-16T04:34:54.489Z [info]: GET /
+2025-07-23T11:56:39.489Z [info]: Redis connected
+2025-07-23T11:56:39.521Z [info]: MongoDB connected
+2025-07-23T11:56:39.527Z [info]: User Service running on port 3000
+2025-07-23T11:56:52.659Z [info]: POST /api/auth/login
+2025-07-23T11:56:52.804Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-23T15:26:02.817Z [info]: GET /
+2025-07-23T15:30:02.777Z [info]: Redis connected
+2025-07-23T15:30:02.793Z [info]: MongoDB connected
+2025-07-23T15:30:02.797Z [info]: User Service running on port 3000

@@ -1,3 +1,6 @@
+
+node_modules
+bookverse-ui/
 #**/node_modules
 #**/.env
 

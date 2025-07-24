@@ -104,3 +104,13 @@
 2025-07-11T12:16:50.265Z [info]: Redis connected
 2025-07-11T12:16:50.287Z [info]: MongoDB connected
 2025-07-11T12:16:50.296Z [info]: Recommendation Service running on port 3003
+2025-07-23T11:53:17.499Z [info]: Redis connected
+2025-07-23T11:53:17.535Z [info]: MongoDB connected
+2025-07-23T11:53:17.541Z [info]: Recommendation Service running on port 3003
+2025-07-23T15:26:02.883Z [info]: GET /
+2025-07-23T15:30:13.661Z [info]: Redis connected
+2025-07-23T15:30:13.676Z [info]: MongoDB connected
+2025-07-23T15:30:13.680Z [info]: Recommendation Service running on port 3003
+2025-07-23T16:08:11.527Z [info]: Redis connected
+2025-07-23T16:08:11.563Z [info]: MongoDB connected
+2025-07-23T16:08:11.570Z [info]: Recommendation Service running on port 3003

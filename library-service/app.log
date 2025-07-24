@@ -380,3 +380,18 @@
 2025-07-11T12:17:53.637Z [info]: POST /api/library/update-category
 2025-07-11T12:17:53.703Z [info]: Book category updated: 686fa492dca21dadb9ba8ddf -> Read
 2025-07-11T12:17:53.713Z [info]: GET /api/library
+2025-07-23T11:53:12.156Z [info]: Redis connected
+2025-07-23T11:53:12.185Z [info]: MongoDB connected
+2025-07-23T11:53:12.190Z [info]: Library Service running on port 3004
+2025-07-23T11:56:54.352Z [info]: GET /api/library
+2025-07-23T11:57:35.715Z [info]: GET /api/library
+2025-07-23T11:57:47.779Z [info]: GET /api/library
+2025-07-23T11:57:50.732Z [info]: GET /api/library
+2025-07-23T12:07:24.431Z [info]: GET /api/library
+2025-07-23T15:26:02.044Z [info]: GET /
+2025-07-23T15:30:20.045Z [info]: Redis connected
+2025-07-23T15:30:20.072Z [info]: MongoDB connected
+2025-07-23T15:30:20.077Z [info]: Library Service running on port 3004
+2025-07-23T16:08:11.627Z [info]: Redis connected
+2025-07-23T16:08:11.661Z [info]: MongoDB connected
+2025-07-23T16:08:11.669Z [info]: Library Service running on port 3004
