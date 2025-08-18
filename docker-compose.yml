@@ -1,0 +1,80 @@
+
+
+services:
+
+  # Book Service
+  book-service:
+    build:
+      context: ./book-service
+    image: book-service:latest
+    container_name: book-service
+    ports:
+      - "3001:3001"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Library Service
+  library-service:
+    build:
+      context: ./library-service
+    image: library-service:latest
+    container_name: library-service
+    ports:
+      - "3004:3004"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Recommendation Service
+  recommendation-service:
+    build:
+      context: ./recommendation-service
+    image: recommendation-service:latest
+    container_name: recommendation-service
+    ports:
+      - "3003:3003"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Review Service
+  review-service:
+    build:
+      context: ./review-service
+    image: review-service:latest
+    container_name: review-service
+    ports:
+      - "3002:3002"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Search Service
+  search-service:
+    build:
+      context: ./search-service
+    image: search-service:latest
+    container_name: search-service
+    ports:
+      - "3005:3005"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # User Service
+  user-service:
+    build:
+      context: ./user-service
+    image: user-service:latest
+    container_name: user-service
+    ports:
+      - "3000:3000"
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+# Custom network definition
+networks:
+  microservices-network:
+    external: true

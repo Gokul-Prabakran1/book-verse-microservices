@@ -203,3 +203,21 @@
 2025-07-23T15:30:02.777Z [info]: Redis connected
 2025-07-23T15:30:02.793Z [info]: MongoDB connected
 2025-07-23T15:30:02.797Z [info]: User Service running on port 3000
+2025-07-24T09:50:38.179Z [info]: Redis connected
+2025-07-24T09:50:38.200Z [info]: MongoDB connected
+2025-07-24T09:50:38.207Z [info]: User Service running on port 3000
+2025-07-24T09:50:38.262Z [info]: POST /api/auth/login
+2025-07-24T09:50:38.441Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-07-24T09:50:53.851Z [info]: Redis connected
+2025-07-24T09:50:53.875Z [info]: MongoDB connected
+2025-07-24T09:50:53.880Z [info]: User Service running on port 3000
+2025-08-12T09:27:57.159Z [info]: Redis connected
+2025-08-12T09:27:57.188Z [info]: MongoDB connected
+2025-08-12T09:27:57.193Z [info]: User Service running on port 3000
+2025-08-12T09:28:19.309Z [info]: POST /api/auth/login
+2025-08-12T09:28:19.464Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-08-12T09:29:11.104Z [info]: POST /api/auth/login
+2025-08-12T09:29:11.210Z [info]: User logged in: 686f83037c08bd1429f31bc3
+2025-08-12T16:28:14.401Z [info]: Redis connected
+2025-08-12T16:28:14.435Z [info]: MongoDB connected
+2025-08-12T16:28:14.443Z [info]: User Service running on port 3000
