@@ -1,6 +1,6 @@
 # Use official Node.js runtime as base image
-FROM node:18-alpine
-
+#FROM node:18-alpine
+FROM node:latest
 # Set working directory inside container
 WORKDIR /app
 
@@ -11,7 +11,6 @@ COPY package*.json ./
 RUN npm install
 
 
-
 # Copy application code
 COPY . .
 
@@ -20,5 +19,5 @@ COPY . .
 EXPOSE 3000
 
 
-# Start the application
+# Start the application 
 CMD ["npm", "start"]
