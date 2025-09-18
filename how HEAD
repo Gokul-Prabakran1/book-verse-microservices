@@ -1,0 +1,235 @@
+[33mcommit 457331cf4d57844ded43feb177960db363f9fae8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Tue Aug 19 16:47:45 2025 +0530
+
+    Update Dockerfile
+
+[33mcommit d3ae0e72c59547ab9e7c643b179e3fc06997414d[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Tue Aug 19 16:47:29 2025 +0530
+
+    Update Dockerfile
+
+[33mcommit 3b202b4177285b557c31c51b5b2dd61ff3b48477[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Tue Aug 19 16:46:52 2025 +0530
+
+    Update Dockerfile
+
+[33mcommit e65337b13785c918346423582dcde57e332b0f9f[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Tue Aug 19 16:39:10 2025 +0530
+
+    Update Dockerfile
+
+[33mcommit 3f8a40156ce6680c05bc802a9b103bd83c930fac[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Tue Aug 19 16:28:32 2025 +0530
+
+    Create check
+
+[33mcommit 46fda154314c6984a2ddee69579bb096c5c93c05[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Tue Aug 19 16:24:06 2025 +0530
+
+    checking git diff in a file
+
+[33mcommit 80a3c922e1d2388020a56c280fe754d27ab53999[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Tue Aug 19 16:22:37 2025 +0530
+
+    checking git diff in a file
+
+[33mcommit 8bcf7aac63b95327eaa522b70a78af75036fa2bc[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Tue Aug 19 16:14:36 2025 +0530
+
+    working on git diff
+
+[33mcommit fefbb9f23e61330fcbedcb3fc1aacde3b0721d89[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Tue Aug 19 16:09:58 2025 +0530
+
+    added result json for testing git diff
+
+[33mcommit a3ea02275423fd5c71a2d3b997d8fade7bd96164[m[33m ([m[1;33mtag: [m[1;33mv4.0.0[m[33m)[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 18:13:45 2025 +0530
+
+    specific commit
+
+[33mcommit fe4a9acda024c2c8664b4661eded5246ecde42e1[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Mon Aug 18 18:12:54 2025 +0530
+
+    Create specific
+
+[33mcommit eb069385e6e72797538b77c11a8dd748d6dc1f40[m[33m ([m[1;33mtag: [m[1;33mv1.3.1[m[33m, [m[1;33mtag: [m[1;33mv1.3.0[m[33m, [m[1;33mtag: [m[1;33mv1.2.0[m[33m)[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 14:11:06 2025 +0530
+
+    corrected files
+
+[33mcommit 3bfbd1e1357a1a68630a46c82e37af48d79e7cab[m
+Merge: 9a1f58c 1c88a01
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 14:08:30 2025 +0530
+
+    Merge branch 'development' of https://github.com/Gokul-Prabakran1/book-verse-microservices into development
+
+[33mcommit 1c88a01ae644f2155d5b7379d85396ea0906e0eb[m
+Author: Gokul-Prabakran1 <165556566+Gokul-Prabakran1@users.noreply.github.com>
+Date:   Mon Aug 18 14:08:25 2025 +0530
+
+    Create Checking pull
+
+[33mcommit 9a1f58c57fb66b353b5b87e12ee2d90e3adea106[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 14:06:25 2025 +0530
+
+    checking!
+
+[33mcommit b5e1fe73579cc093ab12f08c1f1b964b1ccd8c31[m[33m ([m[1;33mtag: [m[1;33mv1.2.4[m[33m)[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 14:01:35 2025 +0530
+
+    testing tag
+
+[33mcommit 02ce5b3d2114bde57a2967dabe054599b5277a08[m[33m ([m[1;33mtag: [m[1;33mv1.2.3[m[33m)[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 13:59:32 2025 +0530
+
+    testing tag
+
+[33mcommit 1d205cc70761103642e8b06297bce4cbc82c76e2[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Mon Aug 18 13:45:55 2025 +0530
+
+    Pushing with docker components
+
+[33mcommit ef69f702cc3b26e3df276bc891fbcd8b29563f80[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Thu Jul 24 15:14:28 2025 +0530
+
+    Stop tracking bookverse-ui and node_modules on root directory
+
+[33mcommit 7e166537101a51949a879707e94a678f83ab56c7[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Thu Jul 24 15:12:07 2025 +0530
+
+    Structure Properly!
+
+[33mcommit dac376b911a8df11ba3797911bc6f28f8b4c0619[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Wed Jul 23 17:21:33 2025 +0530
+
+    Pushed .env for testing!
+
+[33mcommit 01249ffebb57c1f15817aa958744a2af72023e04[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:16:38 2025 +0530
+
+    Stop tracking .env
+
+[33mcommit cc0fade9bd3e0621c1d10c4912ba7e40e1500cf3[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:15:49 2025 +0530
+
+    Stop tracking .env.example
+
+[33mcommit d9f1048f561804a2c32e11009d6f192a02af1398[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:13:00 2025 +0530
+
+    Checking!
+
+[33mcommit 8a99792b594b7416dfa3004f7c2de4e4d92a6924[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:10:40 2025 +0530
+
+    gitignore working properly
+
+[33mcommit 8882afe664d7f5a32ee8f9f61b88b4e81cbfc877[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:07:29 2025 +0530
+
+    checking git ignore
+
+[33mcommit fd694ecb629536fcb87ee7037fc5dfdfe295168f[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 21:03:35 2025 +0530
+
+    Ignore all node_modules and .env files
+
+[33mcommit e962621a95eb54e33867e4a76cbbdd81c5e1940c[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:46:42 2025 +0530
+
+    added gitignore3
+
+[33mcommit e833108e342c8b43bef0cb0bef052febfcd8aaf6[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:45:12 2025 +0530
+
+    added gitignore3
+
+[33mcommit b4843a032576d5078d2b87f3ef570b353ea59ad1[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:42:32 2025 +0530
+
+    added gitignore3
+
+[33mcommit 456993869213475871d3cb61d120c1cafce11c67[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:41:49 2025 +0530
+
+    added gitignore2
+
+[33mcommit fe34f2bc7b47dfc7dc7b405f37e3abeeb0bd9703[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:39:56 2025 +0530
+
+    added gitignore1
+
+[33mcommit d19f642fa763c4ad5af46409af0c9437cc092d06[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:38:23 2025 +0530
+
+    added gitignore
+
+[33mcommit 7a26ddd69822485208130d4abab33f8d3be1a1e2[m
+Author: Gokul-Prabakran1 <gokul72.p@gmail.com>
+Date:   Sat Jul 19 20:29:04 2025 +0530
+
+    removed package.json
+
+[33mcommit b9801843a255c44969848c64baad882aba774dc8[m
+Author: Gokul-Prabakaran <divya722004@gmail.com>
+Date:   Sat Jul 19 20:25:04 2025 +0530
+
+    Deleted unwanted things
+
+[33mcommit 46f580d6285e57222bb6cdb66b185d06438ed53f[m
+Merge: 06af375 2838fe6
+Author: Gokul-Prabakaran <divya722004@gmail.com>
+Date:   Sat Jul 19 20:21:24 2025 +0530
+
+    Merge remote-tracking branch 'origin/development'
+
+[33mcommit 06af37509b5b9d9c1734e5b696186755597dfb63[m
+Author: Gokul-Prabakaran <divya722004@gmail.com>
+Date:   Sat Jul 19 20:19:05 2025 +0530
+
+    frontend added
+
+[33mcommit 2838fe683986e52caddfe05de451ffe8e3700922[m
+Author: Gokul-Prabakaran <divya722004@gmail.com>
+Date:   Sat Jul 19 18:17:09 2025 +0530
+
+    Deleted package-lock.json
+
+[33mcommit 813bb6d7454495cbbfc2393ad98b00949ac154f3[m
+Author: Gokul-Prabakaran <divya722004@gmail.com>
+Date:   Sat Jul 19 18:12:09 2025 +0530
+
+    MVP book verse
