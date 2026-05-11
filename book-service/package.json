@@ -14,7 +14,6 @@
     "lodash": "^4.17.15",
     "mongoose": "^7.0.3",
     "redis": "^4.6.7",
-    "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^4.6.3"
   },
   "devDependencies": {
